@@ -3,5 +3,5 @@
 # Created: 2025
 # Purpose: Demonstrate basic Python output
 # This is the main execution
-print("Hello, World!"  # Prints a greeting to the console
+print("Greetings from the newly modified test script!")  # Prints a greeting to the console
 # End of script
